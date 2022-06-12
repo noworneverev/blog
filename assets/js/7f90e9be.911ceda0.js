@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[6245],{236:function(e){e.exports=JSON.parse('{"label":"vb.net","permalink":"/blog/tags/vb-net","allTagsPath":"/blog/tags","count":1}')}}]);
