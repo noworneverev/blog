@@ -9,7 +9,7 @@ tags: [excel]
 [R: [請益] 事務所的軟體](https://www.ptt.cc/bbs/Accounting/M.1511544733.A.5F1.html)
 
 ## 範例檔下載 
-[Excel Basics.xlsx](https://github.com/noworneverev/noworneverev.github.io/releases/download/1.9/Basic.Excel.xlsx)
+[Excel Basics.xlsx](https://github.com/noworneverev/noworneverev.github.io.old/releases/download/1.9/Basic.Excel.xlsx)
 
 <!--truncate-->
 

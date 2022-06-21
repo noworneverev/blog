@@ -5,7 +5,7 @@ authors: mike
 tags: [vba, excel]
 ---
 ## VBA Shortcuts Download
-[shortcuts.xlam](https://github.com/noworneverev/noworneverev.github.io/releases/download/1.0.0.2/shortcuts.xlam)
+[shortcuts.xlam](https://github.com/noworneverev/noworneverev.github.io.old/releases/download/1.0.0.2/shortcuts.xlam)
 
 <!--truncate-->
 

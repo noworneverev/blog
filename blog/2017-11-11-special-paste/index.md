@@ -6,7 +6,7 @@ tags: [vba, excel]
 ---
 
 ## Download 
-[SpecialPaste.xlam](https://github.com/noworneverev/noworneverev.github.io/releases/download/1.7/SpecialPaste_Value.xlam)
+[SpecialPaste.xlam](https://github.com/noworneverev/noworneverev.github.io.old/releases/download/1.7/SpecialPaste_Value.xlam)
 
 <!--truncate-->
 

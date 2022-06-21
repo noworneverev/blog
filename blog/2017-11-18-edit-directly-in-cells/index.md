@@ -6,7 +6,7 @@ tags: [vba, excel]
 ---
 
 ## Download 
-[EditDirectinCellandEntertoRight.xlam](https://github.com/noworneverev/noworneverev.github.io/releases/download/1.8/EditDirectinCellandEntertoRight.xlam)
+[EditDirectinCellandEntertoRight.xlam](https://github.com/noworneverev/noworneverev.github.io.old/releases/download/1.8/EditDirectinCellandEntertoRight.xlam)
 
 <!--truncate-->
 

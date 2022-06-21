@@ -6,7 +6,7 @@ tags: [vba, excel]
 ---
 
 ## Download 
-[Sumif.xlam](https://github.com/noworneverev/noworneverev.github.io/releases/download/2.2/sumif.xlam)
+[Sumif.xlam](https://github.com/noworneverev/noworneverev.github.io.old/releases/download/2.2/sumif.xlam)
 
 <!--truncate-->
 

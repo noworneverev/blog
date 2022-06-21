@@ -6,7 +6,7 @@ tags: [vba, excel]
 ---
 
 ## Download 
-[thousands separator.xlam](https://github.com/noworneverev/noworneverev.github.io/releases/download/1.4/thousands_separator.xlam)
+[thousands separator.xlam](https://github.com/noworneverev/noworneverev.github.io.old/releases/download/1.4/thousands_separator.xlam)
 
 <!--truncate-->
 
