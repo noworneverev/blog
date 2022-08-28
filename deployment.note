@@ -1,0 +1,1 @@
+cmd /C 'set "GIT_USER=noworneverev" USE_SSH=true && yarn deploy'
