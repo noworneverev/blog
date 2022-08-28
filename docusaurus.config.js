@@ -77,6 +77,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://noworneverev.github.io',
+            label: 'Personal Website',
+            position: 'right',
+          },
         ],
         hideOnScroll: true,
       },
