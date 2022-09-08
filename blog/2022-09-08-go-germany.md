@@ -36,10 +36,10 @@ tags: [master application, germany, studyabroad]
 ### 自訂顯示欄位
 ![Column](/img/column.jpeg)
 
-### 加入書籤
+### 加入收藏
 ![Add to bookmark](/img/addbookmark.png)
 
-### 書籤頁面
+### 收藏頁面
 ![Bookmark](/img/bookmark.jpeg)
 
 ### 檢視詳細資訊
