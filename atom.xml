@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/blog/</id>
     <title>Yan-Ying Liao Blog</title>
-    <updated>2022-08-28T00:00:00.000Z</updated>
+    <updated>2022-09-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/blog/"/>
     <subtitle>Yan-Ying Liao Blog</subtitle>
     <icon>https://github.com/blog/img/dog2.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[【情報】 德國留學搜尋工具]]></title>
+        <id>go-germany</id>
+        <link href="https://github.com/blog/go-germany"/>
+        <updated>2022-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[介紹]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="介紹">介紹<a class="hash-link" href="#介紹" title="Direct link to heading">​</a></h2><p>大家好，因為置底的留學搜尋工具對目標是美國以外的學生幫助有限，剛好自己要去德國留學，便動手寫了這個完全針對德國留學生(碩博)的小工具，此網站以強大的工人智慧蒐集德國學程的分享文章，來源包括：</p><ul><li>PTT 114篇</li><li>Facebook 23篇</li><li>Dcard 8篇</li><li>Medium 16篇</li><li>Blog 17篇</li></ul><p>截至目前共計178篇文章，並整合DAAD的學程資料，提供絕佳的搜尋學程/申請心得體驗，主要功能有：</p><ol><li>以表格方式呈現搜尋結果，快速瀏覽有興趣的學程/心得</li><li>新增TU9/U15及是否曾有心得分享的篩選功能</li><li>支援中文大學名稱搜尋</li><li>支援心得文章全文搜尋</li><li>書籤功能，將有興趣的學程或申請心得加入收藏</li><li>每日同步DAAD資料，確保資訊及時性</li><li>預約簽證通知群組連結</li><li>留德常見問題整理</li></ol><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="操作截圖">操作截圖<a class="hash-link" href="#操作截圖" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="搜尋學程">搜尋學程<a class="hash-link" href="#搜尋學程" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="Search" src="/blog/assets/images/programme_search-c9df7b5da04130f85aa5afff80e1fa6f.jpeg" width="1788" height="1274" class="img_ev3q"></p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="停留顯示作者背景">停留顯示作者背景<a class="hash-link" href="#停留顯示作者背景" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="Hover" src="/blog/assets/images/hover-ed19f3391a4cb48c754c25e9f1781db4.png" width="549" height="307" class="img_ev3q"></p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="自訂顯示欄位">自訂顯示欄位<a class="hash-link" href="#自訂顯示欄位" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="Column" src="/blog/assets/images/column-df4b6446d3de4caa039e9d61cb4e6e24.jpeg" width="860" height="415" class="img_ev3q"></p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="加入書籤">加入書籤<a class="hash-link" href="#加入書籤" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="Add to bookmark" src="/blog/assets/images/addbookmark-c80216f4e64943f58b6a6f81907c7905.png" width="1522" height="230" class="img_ev3q"></p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="書籤頁面">書籤頁面<a class="hash-link" href="#書籤頁面" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="Bookmark" src="/blog/assets/images/bookmark-0fc33d3bd8e49fd791520fb99019a45b.jpeg" width="1788" height="1661" class="img_ev3q"></p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="檢視詳細資訊">檢視詳細資訊<a class="hash-link" href="#檢視詳細資訊" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="View" src="/blog/assets/images/view-360975c11a8259ea6e0d4e5e340d65a3.png" width="1529" height="235" class="img_ev3q"></p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="單一學程">單一學程<a class="hash-link" href="#單一學程" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="Programme" src="/blog/assets/images/single_programme-edb22b87be40643b3d94cebeb45e6550.jpeg" width="1788" height="1737" class="img_ev3q"></p><h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="單一作者">單一作者<a class="hash-link" href="#單一作者" title="Direct link to heading">​</a></h3><p><img loading="lazy" alt="Author" src="/blog/assets/images/single_author-69714d2823c6bcc0aaeb165c674f2fbc.jpeg" width="1788" height="1725" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Yan-Ying Liao</name>
+            <uri>https://github.com/noworneverev</uri>
+        </author>
+        <category label="master application" term="master application"/>
+        <category label="germany" term="germany"/>
+        <category label="studyabroad" term="studyabroad"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【錄取】 德國轉領域 文轉CS RWTH/Stuttgart/Göttingen/Saarland]]></title>
         <id>master-application</id>
